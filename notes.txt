@@ -1,0 +1,12 @@
+data.js => homeScreen.js => app.js => index.html
+
+data.js
+all the data in array object form
+
+homescreen.js
+where html and js gets edited
+
+app.js
+gets assigned IDs and rendered to DOM
+
+index.html pulls in 'scripts' app.js
